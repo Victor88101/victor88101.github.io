@@ -1,0 +1,31 @@
+# Site settings
+title: Vv'blog
+email: "long88101@gmail.com"
+description: "Vv's blog."
+baseurl: ""
+url: "http://victor88101.github.io"
+permalink: /:year/:title
+
+
+# Social account
+#twitter:  victor88101
+# weibo:    ID
+github:   victor88101
+#codepen:  victor88101
+# dribbble: username
+
+
+# Comment
+disqus_shortname: victor88101
+
+
+# Google Analytics
+google_analytics: UA-60830414-1
+
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap
